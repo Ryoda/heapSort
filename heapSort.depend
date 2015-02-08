@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1423269237 source:c:\users\javier\documents\practica algoritmos\heapsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
